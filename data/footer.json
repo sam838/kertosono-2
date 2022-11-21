@@ -1,0 +1,42 @@
+{
+    "footerAboutWidget": {
+       
+        "telephone": "(031) 995 33993 | 0821 3222 9796",
+        "email": "humas@yohannesgabrielpw1.org",
+        "fbUrl": "#",
+        "twitterUrl": "#",
+        "instagramUrl": "#"
+    },
+    "footerLinkTitleOne": "Informasi Kontak",
+    "navListOne": [
+        {
+            "navTitle": "Jl. M H. Thamrin No.29-31, DR. Soetomo, Kec. Tegalsari",
+            "navUrl": "" 
+        }
+        
+    ],
+    "footerLinkTitleTwo": "Jam Operasional",
+    "navListTwo": [
+        {
+            "navTitle": "Senin - Jumat: 07.00 - 14.00",
+            "navUrl": "/" 
+        },
+        {
+            "navTitle": "Sabtu : 07.00 - 12.00",
+            "navUrl": "/" 
+        }
+    ],
+
+    "footerLinkTitleThree": "Tentang Kami",
+    "navListThree": [
+        {
+            "navTitle" : "Agenda",
+            "navUrl": "/"
+        },
+        {
+            "navTitle": "Galeri",
+            "navUrl": "/"
+        }
+    ]
+    
+}

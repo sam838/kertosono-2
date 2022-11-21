@@ -1,0 +1,128 @@
+[
+  {
+    "name": "about",
+    "path": "/about",
+    "component": "D:\\\\Kerja\\\\Komunio\\\\kertosono-1\\\\pages\\\\about.vue",
+    "chunkName": "pages/about"
+  },
+  {
+    "name": "blog",
+    "path": "/blog",
+    "component": "D:\\\\Kerja\\\\Komunio\\\\kertosono-1\\\\pages\\\\blog\\\\index.vue",
+    "chunkName": "pages/blog/index"
+  },
+  {
+    "name": "career",
+    "path": "/career",
+    "component": "D:\\\\Kerja\\\\Komunio\\\\kertosono-1\\\\pages\\\\career\\\\index.vue",
+    "chunkName": "pages/career/index"
+  },
+  {
+    "name": "contact-us",
+    "path": "/contact-us",
+    "component": "D:\\\\Kerja\\\\Komunio\\\\kertosono-1\\\\pages\\\\contact-us.vue",
+    "chunkName": "pages/contact-us"
+  },
+  {
+    "name": "home-three",
+    "path": "/home-three",
+    "component": "D:\\\\Kerja\\\\Komunio\\\\kertosono-1\\\\pages\\\\home-three.vue",
+    "chunkName": "pages/home-three"
+  },
+  {
+    "name": "home-two",
+    "path": "/home-two",
+    "component": "D:\\\\Kerja\\\\Komunio\\\\kertosono-1\\\\pages\\\\home-two.vue",
+    "chunkName": "pages/home-two"
+  },
+  {
+    "name": "news",
+    "path": "/news",
+    "component": "D:\\\\Kerja\\\\Komunio\\\\kertosono-1\\\\pages\\\\news\\\\index.vue",
+    "chunkName": "pages/news/index"
+  },
+  {
+    "name": "ppdb",
+    "path": "/ppdb",
+    "component": "D:\\\\Kerja\\\\Komunio\\\\kertosono-1\\\\pages\\\\ppdb\\\\index.vue",
+    "chunkName": "pages/ppdb/index"
+  },
+  {
+    "name": "project",
+    "path": "/project",
+    "component": "D:\\\\Kerja\\\\Komunio\\\\kertosono-1\\\\pages\\\\project\\\\index.vue",
+    "chunkName": "pages/project/index"
+  },
+  {
+    "name": "service",
+    "path": "/service",
+    "component": "D:\\\\Kerja\\\\Komunio\\\\kertosono-1\\\\pages\\\\service\\\\index.vue",
+    "chunkName": "pages/service/index"
+  },
+  {
+    "name": "unit",
+    "path": "/unit",
+    "component": "D:\\\\Kerja\\\\Komunio\\\\kertosono-1\\\\pages\\\\unit\\\\index.vue",
+    "chunkName": "pages/unit/index"
+  },
+  {
+    "name": "blog-blog-classic",
+    "path": "/blog/blog-classic",
+    "component": "D:\\\\Kerja\\\\Komunio\\\\kertosono-1\\\\pages\\\\blog\\\\blog-classic.vue",
+    "chunkName": "pages/blog/blog-classic"
+  },
+  {
+    "name": "blog-blog-details",
+    "path": "/blog/blog-details",
+    "component": "D:\\\\Kerja\\\\Komunio\\\\kertosono-1\\\\pages\\\\blog\\\\blog-details.vue",
+    "chunkName": "pages/blog/blog-details"
+  },
+  {
+    "name": "news-news-details",
+    "path": "/news/news-details",
+    "component": "D:\\\\Kerja\\\\Komunio\\\\kertosono-1\\\\pages\\\\news\\\\news-details.vue",
+    "chunkName": "pages/news/news-details"
+  },
+  {
+    "name": "project-project-details",
+    "path": "/project/project-details",
+    "component": "D:\\\\Kerja\\\\Komunio\\\\kertosono-1\\\\pages\\\\project\\\\project-details.vue",
+    "chunkName": "pages/project/project-details"
+  },
+  {
+    "name": "unit-unit-details",
+    "path": "/unit/unit-details",
+    "component": "D:\\\\Kerja\\\\Komunio\\\\kertosono-1\\\\pages\\\\unit\\\\unit-details.vue",
+    "chunkName": "pages/unit/unit-details"
+  },
+  {
+    "name": "blog-categories-slug",
+    "path": "/blog/categories/:slug?",
+    "component": "D:\\\\Kerja\\\\Komunio\\\\kertosono-1\\\\pages\\\\blog\\\\categories\\\\_slug.vue",
+    "chunkName": "pages/blog/categories/_slug"
+  },
+  {
+    "name": "blog-tags-slug",
+    "path": "/blog/tags/:slug?",
+    "component": "D:\\\\Kerja\\\\Komunio\\\\kertosono-1\\\\pages\\\\blog\\\\tags\\\\_slug.vue",
+    "chunkName": "pages/blog/tags/_slug"
+  },
+  {
+    "name": "blog-slug",
+    "path": "/blog/:slug",
+    "component": "D:\\\\Kerja\\\\Komunio\\\\kertosono-1\\\\pages\\\\blog\\\\_slug.vue",
+    "chunkName": "pages/blog/_slug"
+  },
+  {
+    "name": "service-slug",
+    "path": "/service/:slug",
+    "component": "D:\\\\Kerja\\\\Komunio\\\\kertosono-1\\\\pages\\\\service\\\\_slug.vue",
+    "chunkName": "pages/service/_slug"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "D:\\\\Kerja\\\\Komunio\\\\kertosono-1\\\\pages\\\\index.vue",
+    "chunkName": "pages/index"
+  }
+]
